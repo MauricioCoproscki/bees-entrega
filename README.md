@@ -52,7 +52,4 @@ pytest tests/
   - `/silver`
   - `/gold`
 
-## ✍️ Autor
-- Seu nome
-- [Seu LinkedIn](#)
-- [Seu GitHub](#)
+
