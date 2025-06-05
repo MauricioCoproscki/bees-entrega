@@ -1,6 +1,6 @@
 # BEES Brewery Pipeline
 
-## 🚀 Objetivo
+##  Objetivo
 Pipeline de dados utilizando a API Open Brewery DB, organizado em arquitetura Medallion (Bronze, Silver e Gold) com Airflow e Docker.
 
 ## 🏗️ Arquitetura
@@ -19,8 +19,8 @@ Pipeline de dados utilizando a API Open Brewery DB, organizado em arquitetura Me
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/bees-brewery-pipeline.git
-cd bees-brewery-pipeline
+git clone https://github.com/seu-usuario/bees-entrega.git
+cd bees-entrega
 ```
 
 2. Suba o ambiente:
